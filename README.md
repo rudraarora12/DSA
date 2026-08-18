@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rudraarora12/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/rudraarora12/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rudraarora12/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rudraarora12/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/rudraarora12/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rudraarora12/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
